@@ -1,12 +1,40 @@
-# React + Vite
+# 🎯 MockMate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MockMate is a full-stack AI-powered interview preparation platform that generates personalized question sets based on your target role, experience, and technical focus areas. It helps you prepare smarter and faster by combining AI with curated learning tools.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Features
 
-## Expanding the ESLint configuration
+- ✨ AI-generated interview questions tailored to role, experience, and focus topics
+- 📚 Expandable answers with future support for learning resources
+- ➕ Create, view, and manage multiple interview prep sessions
+- 🧾 Session summaries with progress and timestamps
+- 🔒 Secure login/signup with JWT authentication
+- 🎨 Clean, responsive UI with modals and interactive cards
+- ☘️ "Luck Me Out" button to spark spontaneous prep inspiration!
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Tech Stack
+
+**Frontend**
+- React.js
+- Tailwind CSS
+- React Icons
+- React Router
+
+**Backend**
+- Node.js
+- Express.js
+- OpenAI / Gemini (AI question generation)
+- MongoDB (Mongoose)
+
+**Other**
+- JWT Auth
+- Axios
+- Vite
+- Toast Notifications
+- Environment-based config
+
+---
