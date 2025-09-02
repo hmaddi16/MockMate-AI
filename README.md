@@ -4,7 +4,7 @@ MockMate is a MERN-stack AI-powered interview preparation platform that generate
 
 ---
 
-## 🧠 Features
+## 🚀 Features
 
 - ✨ AI-generated interview questions tailored to role, experience, and focus topics
 - ➕ Create, view, and manage multiple interview prep sessions
