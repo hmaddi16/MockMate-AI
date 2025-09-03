@@ -16,21 +16,8 @@ MockMate is a MERN-stack AI-powered interview preparation platform that generate
 
 ## 📦 Tech Stack
 
-**Frontend**
-- React.js
-- Tailwind CSS
-- React Icons
-- React Router
-
-**Backend**
-- Node.js
-- Express.js
-- Gemini (AI question generation)
-- MongoDB (Mongoose)
-
-**Other**
-- JWT Auth
-- Axios Instance
-- Toast Notifications
-- Environment-based config
+|--------------------------|---------------------|
+| **Frontend** | React.js, Tailwind CSS, React Icons, React Router |
+| **Backend** | Node.js, Express.js, Gemini AI, MongoDB (Mongoose) |
+| **Other** | JWT Auth, Axios Instance, Toast Notifications, Environment-based config |
 ---
