@@ -24,7 +24,7 @@ MockMate is a MERN-stack AI-powered interview preparation platform that generate
 
 ## 💻 View Demo
 Check out the **demo video** located directly in this repository:
-**`/mockmate-demo.mp4`** 🎥
+**[`/mockmate-demo.mp4`**]([url](https://github.com/hmaddi16/MockMate-AI/blob/main/MockMate-%20Demo%20Video.mp4)) 🎥
 
 > 🔁 For the best experience, download and watch locally!
 
